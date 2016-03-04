@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="spring-mvc-jquery-file-upload"
+  id="myeclipse.1456982787911"
+  context-root="/spring-mvc-jquery-file-upload"
+  j2ee-spec="6.0"
+  archive="spring-mvc-jquery-file-upload.war">
+  <attributes>
+    <attribute name="webrootdir" value="webapp" />
+  </attributes>
+</project-module>
+
